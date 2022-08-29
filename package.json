@@ -1,7 +1,7 @@
 {
   "name": "wp-performance-header",
   "version": "0.1.0",
-  "description": "Block for display logo",
+  "description": "This plugin allows you to display logo in a block",
   "author": "The WordPress Contributors",
   "license": "GPL-2.0-or-later",
   "main": "build/index.js",

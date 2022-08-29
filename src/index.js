@@ -11,7 +11,7 @@ registerBlockType('wp-performance/header', {
     'wp-performance-header',
   ),
   icon: 'format-image',
-  category: 'theme-blocks',
+  category: 'theme',
   example: {},
   attributes: {},
   edit: (props) => {

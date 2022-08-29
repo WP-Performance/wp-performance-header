@@ -5,7 +5,7 @@ namespace WPPerformance\Header;
 /**
  * Plugin Name:       WP Performance Header
  * Update URI:        false
- * Description:       This plugin allows you to display logo
+ * Description:       This plugin allows you to display logo in a block
  * Requires at least: 5.9
  * Requires PHP:      8.0
  * Version:           0.1.0
