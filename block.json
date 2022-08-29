@@ -1,0 +1,13 @@
+{
+  "apiVersion": 2,
+  "name": "wp-performance/header",
+  "title": "WP Performance Header",
+  "category": "theme",
+  "icon": "format-image",
+  "description": "This plugin allows you to display logo",
+  "supports": {
+    "html": false
+  },
+  "textdomain": "wp-performance-header",
+  "editorScript": "file:./build/index.js"
+}
